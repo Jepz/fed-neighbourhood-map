@@ -1,0 +1,25 @@
+{
+  "name": "fed-neighbourhood-map",
+  "version": "1.0.0",
+  "description": "A Udacity project to create a neighbourhood map with goolge maps api",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jepz/fed-neighbourhood-map.git"
+  },
+  "keywords": [
+    "google",
+    "maps",
+    "knockout",
+    "gulp"
+  ],
+  "author": "Jesper Lindholmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jepz/fed-neighbourhood-map/issues"
+  },
+  "homepage": "https://github.com/Jepz/fed-neighbourhood-map#readme"
+}
